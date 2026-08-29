@@ -1,0 +1,6 @@
+{
+  "name": "Hamkor LMS - Korporativ O'quv Portali",
+  "description": "Hamkor savdo tarmog'i uchun korporativ LMS portali: iSpring o'quv kurslari, AI sotuv trenajyori, 1v1 bilim dueli, Filiallar ligasi, Smart QR narxnoma generatori, AI Smart PDP va 14-kunlik onboarding dasturi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
